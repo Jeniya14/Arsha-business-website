@@ -176,9 +176,7 @@ watchnow{
     background-color: white;
     color: #269fef;
 }
-.cont{
-    /* padding: 50px 70px; */
-}
+
 .cont p{
     margin-block-start: 0px;
     color: rgb(180, 178, 178);
@@ -216,7 +214,6 @@ inp:focus{
     color: white;
     text-decoration: none;
     border-radius: 50px;
-    /* padding:20px 50px ; */
     border:0;
 }
 .btn:hover{
@@ -251,16 +248,11 @@ inp:focus{
     padding-right: 10px;
     color: #47b2e4;
 }
-/* .accordion-button:hover{
-    color: #269fef;
-} */
 .portfo{
     position: relative;
     overflow: hidden;
     transition: all 0.6s;
-        /* display: block; */
 }
-
 .inner-div{
     display: none;
     position: absolute;
@@ -421,7 +413,7 @@ inp:focus{
 }
 @media only screen and (min-width:768px) and (max-width:1025px){
     .ai-image{
-        width:500px
+        width:430px
     }
     .h2h::before{
         margin-left:320px ;
