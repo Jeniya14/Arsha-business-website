@@ -43,11 +43,6 @@ This is a business website created using HTML, Bootstrap, and CSS. The design in
 ![screenshots](screenshots/screenshotMobile9.png)
 
 
-## How to Use
-
-1. Clone the repository: `git clone https://github.com/your-username/arsha-bootstrap-website.git`
-2. Open the `index.html` file in your web browser.
-
 ## Contribution
 
 If you'd like to contribute or report issues, please follow these steps:
